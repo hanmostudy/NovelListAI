@@ -1,6 +1,6 @@
 {
   "Product": {
-    "name": "北京大学 旷欣然 1012",
+    "name": "北京大学 旷欣然 1011作业",
     "solgan": "创意到剧本，AI全程助力。"
   },
   "LandingPage": {
@@ -9,11 +9,11 @@
     },
     "Hero": {
       "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "description": "我也不知道还需要改啥",
       "cta": "开始使用"
     },
     "Features": {
-      "title": "主要功能",
+      "title": "随便写一点东西吧",
       "characterProfile": {
         "title": "角色档案生成器",
         "description": "轻松创建详细的角色档案。"
